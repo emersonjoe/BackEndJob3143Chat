@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRMinimalApijob3143", "SignalRMinimalApijob3143.csproj", "{AF183599-D93F-0862-6764-2D57DD3F3475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF183599-D93F-0862-6764-2D57DD3F3475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF183599-D93F-0862-6764-2D57DD3F3475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF183599-D93F-0862-6764-2D57DD3F3475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF183599-D93F-0862-6764-2D57DD3F3475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4762E299-F397-40A5-8B6E-9EB29A52CF88}
+	EndGlobalSection
+EndGlobal

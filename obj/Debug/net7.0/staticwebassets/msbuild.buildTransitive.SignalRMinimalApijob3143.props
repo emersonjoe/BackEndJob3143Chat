@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/SignalRMinimalApijob3143.props" />
+</Project>
